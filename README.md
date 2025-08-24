@@ -15,6 +15,10 @@ Built with the **MERN stack**, it enables customers to browse and purchase plant
 ⚙️ **Live API:** [ecobloom-server.onrender.com](https://ecobloom-server.onrender.com)  
 **Demo Video:** [ecobloom-demo](https://drive.google.com/file/d/1quGZE5UvV8EP5-e6G8XIVa9CYVQWFftx/view?usp=sharing)
 
+***For Testing***
+**Email :- arbababby111@gmail.com**
+**Password :- Arbab@786**
+
 ---
 
 ## 🌱 About EcoBloom  
