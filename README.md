@@ -87,7 +87,7 @@ EcoBloom simplifies the plant shopping experience while encouraging eco-friendly
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](/Users/arbabarshad/Desktop/EcoBloom/client/public/Home.png)
+![Home](client/public/add-plant.png)
 ### 🔍 Plant Search  
 ![Search](/Users/arbabarshad/Desktop/EcoBloom/client/public/search.png)  
 
