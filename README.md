@@ -87,22 +87,22 @@ EcoBloom simplifies the plant shopping experience while encouraging eco-friendly
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home](client/public/add-plant.png)
+![Home](https://i.postimg.cc/qvjRnCSp/Home.png)
 ### 🔍 Plant Search  
-![Search](/Users/arbabarshad/Desktop/EcoBloom/client/public/search.png)  
+![Search](https://i.postimg.cc/26C2tMTQ/search.png)  
 
 ### 🛒 Plant Detail Page  
-![Plant Detail](/Users/arbabarshad/Desktop/EcoBloom/client/public/plant-detail.png)  
+![Plant Detail](https://i.postimg.cc/sDCtzjKz/plant-detail.png)  
 
 ### 📦 My Orders Page  
-![My Orders](/Users/arbabarshad/Desktop/EcoBloom/client/public/my-order.png)  
+![My Orders](https://i.postimg.cc/htpwV9n4/my-order.png)  
 
 ### 🛠️ Admin Manage Orders  
-![Admin Orders](/Users/arbabarshad/Desktop/EcoBloom/client/public/manage-order.png)  
+![Admin Orders](https://i.postimg.cc/1Rw3Bd2C/manage-order.png)  
 
 ### ➕ Add/Update Plant  
-![Add Plant](/Users/arbabarshad/Desktop/EcoBloom/client/public/add-plant.png)  
-![Update Plant](/Users/arbabarshad/Desktop/EcoBloom/client/public/update-plant.png)  
+![Add Plant](https://i.postimg.cc/FHWr1XkR/add-plant.png)  
+![Update Plant](https://i.postimg.cc/cJvsnkfc/update-plant.png)  
 
 ---
 
