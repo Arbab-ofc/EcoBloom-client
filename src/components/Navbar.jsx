@@ -287,7 +287,7 @@ export default function Navbar() {
                   </>
                 )}
                 <Link
-                  to="/orders"
+                  to="/my-orders"
                   onClick={() => setOpen(false)}
                   className="block px-4 py-2 rounded-md hover:bg-gray-100"
                 >
